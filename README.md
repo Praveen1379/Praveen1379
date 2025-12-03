@@ -1,16 +1,14 @@
-## Hi there 👋
+Praveen | Future Fintech Analyst & Hybrid Developer
+I am a B.Com graduate with a specialization in Computer Applications, driven to build smart solutions at the intersection of Finance and Code.
 
-<!--
-**Praveen1379/Praveen1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Profile Highlights:
 
-Here are some ideas to get you started:
+Flagship Project: Developed a Live Retirement Planner Web Application (HTML/JS/Firebase) that performs complex financial projections. (The link is in my Pinned/Featured section!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Expertise: Financial Accounting, Audit Verification, and practical software implementation.
+
+Upskilling: Mastering Python (Pandas/NumPy) and SQL for advanced Financial Data Analysis.
+
+Leadership: Proven organizational and execution skills as the NSS Secretary and Class Representative.
+
+Career Goal: I am actively seeking entry-level roles in Fintech Operations or Financial Data Analysis. Let's connect on LinkedIn to discuss how my hybrid skills can contribute to your team!
