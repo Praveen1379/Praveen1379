@@ -3,7 +3,7 @@ I am a B.Com graduate with a specialization in Computer Applications, driven to 
 
 My Profile Highlights:
 
-Flagship Project: Developed a Live Retirement Planner Web Application (HTML/JS/Firebase) that performs complex financial projections. (The link is in my Pinned/Featured section!)
+Flagship Project: Developed a Live Retirement Planner Web Application (HTML/JS/Firebase) that performs complex financial projections: https://praveen1379.github.io/financial-planner-project/
 
 Core Expertise: Financial Accounting, Audit Verification, and practical software implementation.
 
